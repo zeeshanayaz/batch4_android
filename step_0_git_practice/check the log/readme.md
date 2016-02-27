@@ -4,5 +4,5 @@
 
 > git log
 
-(Google)[www.google.com]
+Google(www.google.com)
 

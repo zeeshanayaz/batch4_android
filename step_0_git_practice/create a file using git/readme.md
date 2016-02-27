@@ -4,5 +4,5 @@
 
 > echo "[Text]" > [File Name]
 
-[Google](www.google.com)
+(Google)[www.google.com]
 
